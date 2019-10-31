@@ -1,1 +1,1 @@
-This project clones the mint login screen through HTML/CSS.  Its main purpose is to practice creating forms with varying type fields.
+This project clones the mint login screen through HTML/CSS.  Its main purpose is to practice creating forms with varying type fields. It can be seen [here](https://mleers.github.io/mint-form-clone/)
